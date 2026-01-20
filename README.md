@@ -85,7 +85,8 @@ The results confirm that semester-wise academic performance indicators are stron
 ---
 
 ## 📁 Repository Contents
-- `ML_Student_Dropout & Academic success .pdf` – Final IEEE-style research article  
+- `ML_Student_Dropout & Academic success .pdf`
+- https://github.com/chirontorudrapaul/Dropout-prediction-and-Academic-Success-ML-type-/blob/main/ML_Student_Dropout%20%26%20Academic%20success%20.pdf
 - `README.md` – Project overview and documentation  
 
 ---
